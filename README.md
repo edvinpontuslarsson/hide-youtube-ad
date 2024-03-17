@@ -12,4 +12,4 @@ This extension is currently not public and therefore needs to be self-hosted.
 
 The installation process for this extension may vary depending on your Firefox version and operating system. 
 
-I would reccomend consulting chatGPT for instructions to add it to your Firefox and/or using a trial-and-error-approach.
+I would recommend consulting chatGPT for instructions to add it to your Firefox and/or using a trial-and-error-approach.
